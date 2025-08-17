@@ -5,3 +5,5 @@ package-lock.json.old
 TODO.txt
 .env
 config.json
+configGot.js
+*config*
